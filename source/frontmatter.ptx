@@ -7,16 +7,26 @@
   <bibinfo>
   
     <author>
-      <personname>You</personname>
+      <personname>You 1</personname>
       <department>Your department</department>
       <institution>Your institution</institution>
     </author>
-    <date>
+     <author>
+      <personname>You 2</personname>
+      <department>Your department</department>
+      <institution>Your institution</institution>
+    </author>
+     <author>
+      <personname>You 3</personname>
+      <department>Your department</department>
+      <institution>Your institution</institution>
+    </author>
+    <!-- <date>
       <today />
-    </date>
+    </date> -->
 
     <website>
-      <url href="https://pretextbook.org">My Website</url>
+      <url href="https://fragandi.github.io/pretext-mess/">MSCS PreTeXt website </url>
     </website>
 
     <copyright>
