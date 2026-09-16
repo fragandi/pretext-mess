@@ -1,0 +1,24 @@
+PWD /workspaces/pretext-mess/MSCS_Mess_25_26/Past Semesters
+INPUT /root/.TinyTeX/texmf.cnf
+INPUT /root/.TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /root/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /workspaces/pretext-mess/MSCS_Mess_25_26/Past Semesters/9.12.2025 MSCS Mess.tex
+OUTPUT 9.12.2025 MSCS Mess.log
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
+INPUT /root/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /root/.TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
